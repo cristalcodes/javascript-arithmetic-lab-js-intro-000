@@ -15,6 +15,6 @@ function divide (a, b){
 }
 
 function inc(n) {
-  variable n= 'a'
+  variable n=(a)
   a++;
 }
